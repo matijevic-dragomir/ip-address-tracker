@@ -24,8 +24,8 @@ export function Header({ children }: HeaderProps) {
             Frontend Mentor
           </a>{' '}
           . Coded by{' '}
-          <a className="underline" href="https://github.com/dragi-ns">
-            dragi-ns
+          <a className="underline" href="https://github.com/matijevic-dragomir">
+            matijevic-dragomir
           </a>
           .
         </p>

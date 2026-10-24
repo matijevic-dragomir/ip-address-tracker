@@ -30,8 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/dragi-ns/ip-address-tracker/
-- Live Site URL: https://cozy-marzipan-1a4f90.netlify.app/
+- Solution URL: https://github.com/matijevic-dragomir/ip-address-tracker/
 
 ## My process
 
@@ -49,4 +48,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [dragi-ns](https://github.com/dragi-ns)
+- Website - [matijevic-dragomir](https://github.com/matijevic-dragomir)
